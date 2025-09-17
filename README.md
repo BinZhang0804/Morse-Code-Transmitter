@@ -17,7 +17,7 @@ It transmits the letters **A–H** in Morse code by blinking LEDs using a finite
 - **KEY[1]** → Reset (active low)  
 - **SW[2:0]** → Select letter  
 - **LED[0]** → LED output for Morse code blink  
-- **LED[7:5]** → Debug (displays selected letter input)
+- **LED[7:2]** → Debug (displays selected letter input [7:5] and FSM state [3:2])
 
 
 <p align="center">
