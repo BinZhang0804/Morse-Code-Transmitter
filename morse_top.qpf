@@ -1,0 +1,6 @@
+DATE = "00:22:32 September 17, 2025"
+QUARTUS_VERSION = "16.0.2"
+
+# Revisions
+
+PROJECT_REVISION = "morse_top"
